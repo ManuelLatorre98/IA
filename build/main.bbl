@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{sabharwal2011s}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=a9e0631f7cb86b51f2dbfd908c164960}{%
+           family={Sabharwal},
+           familyi={S\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0ff75e71f593b1e7ef8dc99e4a1ff418}{%
+           family={Selman},
+           familyi={S\bibinitperiod},
+           given={Bart},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c00a383bf3f9f91784b94ccc11437545}
+      \strng{fullhash}{c00a383bf3f9f91784b94ccc11437545}
+      \strng{bibnamehash}{c00a383bf3f9f91784b94ccc11437545}
+      \strng{authorbibnamehash}{c00a383bf3f9f91784b94ccc11437545}
+      \strng{authornamehash}{c00a383bf3f9f91784b94ccc11437545}
+      \strng{authorfullhash}{c00a383bf3f9f91784b94ccc11437545}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{S. russell, p. norvig, artificial intelligence: A modern approach}
+      \field{year}{2011}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
