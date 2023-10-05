@@ -618,10 +618,6 @@ INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.toc
 INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.toc
 INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.toc
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-OUTPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.toc
-INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
-INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
-INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -654,6 +650,10 @@ INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mnsymbol\MnS
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\wasy\wasy10.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\wasy\wasy8.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\wasy\wasy6.tfm
+OUTPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.toc
+INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
+INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
+INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
 OUTPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.lof
 INPUT .\resumen.tex
 INPUT resumen.tex
@@ -667,9 +667,45 @@ INPUT .\Images\Imagenes\cuadro1.png
 INPUT .\Images\Imagenes\cuadro1.png
 INPUT .\Images\Imagenes\cuadro1.png
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolC.enc
 INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolA.enc
+INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\mnsymbol\MnSymbolD.enc
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoSimple.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteReflexoEst.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAMetas.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteOrientadoAutilidad.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT Images\Imagenes\AgenteQueAprende.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT .\Images\Imagenes\AgenteQueAprende.png
+INPUT C:\Users\manul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.aux
 INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.out
 INPUT c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.out

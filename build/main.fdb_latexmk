@@ -1,17 +1,18 @@
 # Fdb version 4
-["biber build/main"] 1696286593 "build/main.bcf" "build/main.bbl" "build/main" 1696286651 0
+["biber build/main"] 1696286593 "build/main.bcf" "build/main.bbl" "build/main" 1696442698 0
   "./biblio.bib" 1696286562 190 3c43a483d59c1ee3cc0d78edd384c5f5 ""
-  "build/main.bcf" 1696286651 106962 e2dc9abc0d9117822205eeafb99f4ff7 "pdflatex"
+  "build/main.bcf" 1696442697 106962 e2dc9abc0d9117822205eeafb99f4ff7 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1696286648 "c:/Users/manul/OneDrive/Escritorio/Final IA/Resumen/main.tex" "build/main.pdf" "main" 1696286651 0
+["pdflatex"] 1696442695 "c:/Users/manul/OneDrive/Escritorio/Final IA/Resumen/main.tex" "build/main.pdf" "main" 1696442698 0
   "C:/Users/manul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1695163216 229657 d51ebb40197440b77fcd843ef735ce0a ""
   "C:/Users/manul/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1684952403 14064 9d09f227a02599e1c4683ce9f5d894f8 ""
   "C:/Users/manul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1685638803 23185555 492459c5404cbc3f78a5488771ab2eaf ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc" 1168536988 3341 78e600b269762aa2a25a5293cc4535c0 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc" 1168536988 3275 8d7166dfdbc31ffdc8aba0c31b3bd5c8 ""
+  "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc" 1168536988 3375 808c88761dbdc66fc653d18f42765b64 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
@@ -238,19 +239,24 @@
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/wasysym/wasysym.sty" 1579693002 11252 7fbfbe7bbcbe1f73acbe32ae2f10c666 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/manul/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
+  "Images/Imagenes/AgenteOrientadoAMetas.png" 1696438572 196480 a051fd0bb1da2d29a0663973332b2b0b ""
+  "Images/Imagenes/AgenteOrientadoAutilidad.png" 1696438892 212940 c3d308b8580b83b2c7c65865c60703cc ""
+  "Images/Imagenes/AgenteQueAprende.png" 1696439062 171082 b2b45dd8a005862f59e156f6df544589 ""
+  "Images/Imagenes/AgenteReflexoEst.png" 1696437742 184689 6d971a33ed6f0ca76f1629681f1e7c29 ""
+  "Images/Imagenes/AgenteReflexoSimple.png" 1696436470 129727 13d11c02c40a626de0ee77a532688fc4 ""
   "Images/Imagenes/cuadro1.png" 1696285443 131069 51f128ab96a878878d74f81d8ea54572 ""
   "Images/Unco/Unco logo.png" 1661460218 71036 07a3c475dd7e1706d0e8963068635313 ""
   "Images/Unco/faiLogo.png" 1661460210 29253 ebed10ea7f07573184fe62b74119a2cd ""
-  "build/main.aux" 1696286651 1368 5f5f9894460fc5c4de1dbb2f96f3b752 "pdflatex"
+  "build/main.aux" 1696442697 2717 c02d25ff469c1a9d205026fad58ed19a "pdflatex"
   "build/main.bbl" 1696286596 1761 8b59f22ab7998119d1523316f892666e "biber build/main"
-  "build/main.lof" 1696286651 133 39e48c4afc1dcd1c55d7e78fa7a7dcbd "pdflatex"
-  "build/main.out" 1696286651 129 ecad718eefd2ca21a73bc3d7099d4bb8 "pdflatex"
-  "build/main.run.xml" 1696286651 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
-  "build/main.toc" 1696286651 102 0fd5e060b3212a1b942d2f25763eb8e4 "pdflatex"
+  "build/main.lof" 1696442697 684 85c54671e0487992f4490862afb8c4da "pdflatex"
+  "build/main.out" 1696442697 221 514f56824fefba1489e965d1ccd2a4c8 "pdflatex"
+  "build/main.run.xml" 1696442697 2301 13e8301fbdc44293469f5e9eeaf509b7 "pdflatex"
+  "build/main.toc" 1696442697 175 a6a0cc5cf931a3aa9c8a0abc85204629 "pdflatex"
   "c:/Users/manul/OneDrive/Escritorio/Final IA/Resumen/main.tex" 1696285395 4937 f292946417cb2ca2a2316eccd240561b ""
   "caratula.tex" 1683576662 563 44680d0e9232ce1c473355e323993d52 ""
   "main.tex" 1696285395 4937 f292946417cb2ca2a2316eccd240561b ""
-  "resumen.tex" 1696286648 1678 dca2d8f2b2600ee7bfe664b0c930f4fc ""
+  "resumen.tex" 1696442690 13484 ec857a32be79895df49018d95ba8fe4d ""
   (generated)
   "build/main.aux"
   "build/main.bcf"

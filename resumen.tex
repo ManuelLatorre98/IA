@@ -20,7 +20,7 @@
     \item Aprendizaje
   \end{itemize}
   El Test consiste en un juez realizando preguntas a dos participantes (X e Y) que no puede ver: un hombre y una mujer. El juez debe averiguar, por medio de preguntas quien es el hombre y quien la mujer. Los participantes pueden mentir o tratar de engañar al juez
-  \item \textbf{Actúan racionalmente:} El comportamiento racional hace referencia a realizar la acción correcta. Es decir, aquello que se espera maximice la meta a alcanzar, dada la información disponible
+  \item \textbf{Actúan racionalmente (este es el que nos interesa):} El comportamiento racional hace referencia a realizar la acción correcta. Es decir, aquello que se espera maximice la meta a alcanzar, dada la información disponible
 \end{itemize}
 
 \textbf{Agente: }Un agente es una entidad que percibe y actúa. Abstractamente, un agente es una función desde historias de percepciones a acciones:
@@ -30,3 +30,172 @@
 \end{equation}
 
 Para toda clase de ambientes y tareas, buscamos el agente con la mejor perfomance
+
+\textbf{IA fuerte vs Debil }
+\begin{itemize}
+  \item \textbf{IA fuerte: }Una maquina que piense debera tener conciencia y mente real
+  \item \textbf{IA débil: }Las maquinas podrían actuar como si ellas fueran inteligentes
+\end{itemize}
+
+\textbf{Inteligencia artificial vs sintética}
+\begin{itemize}
+  \item \textbf{Artificial: }Hecho por el hombre. Sugiere que es algo de calidad diferente a lo natural. Por ejemplo, lago artificial, brazo artificial.
+  \item \textbf{Sintético: }Producto obtenido por procedimientos mecánicos, electrónicos o industriales y que imita otro producto natural. Por ejemplo césped sintético  
+\end{itemize}
+
+\subsection{Agentes}
+\todo[inline]{Esta seccion hay que sabersela de memoria, se arrastra hasta el final de la carrera}
+Un agente racional es aquel que hace las acciones correctas. Una accion correcta, es aquella que causa que el agente sea mas exitoso.
+\begin{itemize}
+  \item Una \textbf{secuencia de acciones} afectan al ambiente que pasa por una secuencia de estados. Por ejemplo cuando moves una pieza jugando al ludo, el ambiente es el tablero y tu acción de mover una pieza modifico la configuración de este
+  \item \textbf{Medida de performance} criterio objetivo que establece cuan exitoso es el comportamiento del agente. Evalúa cuan deseable es la secuencia de estados del ambiente generados por la secuencia de acciones del agente
+\end{itemize}
+
+Las medidas de performance se diseñan de acuerdo a loq ue uno realmente \textbf{quiere en el ambiente} en vez de considerar la forma en que uno piensa que el agente se debería comportar
+
+\textbf{Racionalidad en un agente racional: }en un momento dado depende de:
+\begin{itemize}
+  \item La medida de performance que define un criterio de éxito
+  \item El conocimiento a priori del ambiente
+  \item Las acciones que el agente puede ejecutar
+  \item La secuencia de percepciones del agente hasta el momento
+  \item Para cada posible secuencia de percepciones, un agente racional elige la acción que maximiza el valor esperado de la medida de performance (osea la acción que lo hace mas exitoso) esto lo averigua basándose en la evidencia provista por la secuencia de percepciones y el conocimiento predefinido que el agente tiene
+\end{itemize}
+
+\textbf{Agente omnisciente: }es aquel que conoce el resultado real de sus acciones y puede actuar de a cuerdo a ello. Esta es imposible en la realidad ya que $Racionalidad \neq Clarividencia$. El agente racional no requiere omnisciencia porque la elección racional depende de la secuencia de percepciones
+
+\textbf{Como trabaja el agente racional:}
+\begin{itemize}
+  \item Explora: reúne información antes de elegir la acción adecuada. Ejemplo: Si tenes un robot que tiene que cruzar la calle, tiene que mirar a los dos lados para saber cuando cruzar y que no se la den
+  \item Autonomía: Toma decisiones en forma \textbf{independiente}. Sus decisiones y sus acciones están bajo su propio control. Tiene sus propias creencias, deseos e intenciones, es decir, no es sirviente de otros (hace la que le pinta en función a lo que sabe). Si un agente confía en el conocimiento a priori de su diseñador en vez de en sus percepciones entonces se dice que le falta autonomía 
+\end{itemize}
+
+\subsection*{Tipos de agentes}
+\subsubsection*{Agente reactivo o reflexo simple}
+\begin{itemize}
+  \item Agentes que simplemente reaccionan por un estimulo del ambiente. Por ejemplo una alarma de seguridad
+  \item Selecciona una acción en base a la percepción actual, ignorando el resto de la historia de percepciones (el pasado)
+  \item No mantienen ninguna representación explicita interna del ambiente
+  \item Las decisiones son implementadas en alguna forma de mapeo directo entre situación-acción o condición-acción
+\end{itemize}
+
+Tiene un comportamiento dirigido por el principio de estimulo-respuesta característico de los reflejos de humanos, animales y plantas
+
+\textbf{Ventajas: }
+\begin{itemize}
+  \item Simplicidad
+  \item Tratabilidad computacional
+\end{itemize}
+
+\textbf{Limitaciones: }
+\begin{itemize}
+  \item Solo trabajan bien si la acción correcta puede determinarse en base a la percepción actual (El ambiente tiene que ser totalmente observable)
+  \item Posibilidad de loops infinitos bajo ambientes parcialmente observables
+  \item Incapacidad de analizar la consecuencia futura de las acciones
+  \item Difíciles de escalar
+\end{itemize}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=16cm, scale=1]{Images/Imagenes/AgenteReflexoSimple.png}
+  \caption{Agente reflexo simple}
+\end{figure}
+
+\subsubsection*{Agente reflexo con estado interno}
+Tiene un estado interno que le permite
+\begin{itemize}
+  \item Ver como cambia el ambiente independientemente del agente
+  \item Como afectan sus acciones al ambiente (osea tiene memoria)
+\end{itemize}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=16cm, scale=1]{Images/Imagenes/AgenteReflexoEst.png}
+  \caption{Agente reflexo con estado interno}
+\end{figure}
+
+\subsubsection*{Agente orientado a metas}
+\begin{itemize}
+  \item Necesita información de sus metas para escoger que acciones las pueden cumplir
+  \item Pueden usarse técnicas de búsqueda y planificación
+  \item Esto lo puede hacer mas flexible. Por ejemplo si esta lloviendo ajustar la efectividad de los frenos. Básicamente analiza que es lo que hacen (pero no evalua que tan buenas son) sus posibles acciones para decidir si lo acercan o no a su meta, esto quiere decir que buscan un objetivo sin importarle el como (osea le chupa un huevo la eficiencia solo quiere cumplir su objetivo)
+\end{itemize}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=16cm, scale=1]{Images/Imagenes/AgenteOrientadoAMetas.png}
+  \caption{Agente orientado a metas}
+\end{figure}
+
+\subsubsection*{Agente orientado a la utilidad}
+\begin{itemize}
+  \item Las metas por si solas no son suficientes para generar un comportamiento de buena calidad (a este no le chupa un huevo la eficiencia :D)
+  \item Para esto se necesita una medida de utilidad (función que mapea un estado o secuencia de estados con un numero real).básicamente tiene una función que le tira un numerito que dice que tan buena es la acción para ver si la toma o no.
+\end{itemize}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=16cm, scale=1]{Images/Imagenes/AgenteOrientadoAutilidad.png}
+  \caption{Agente orientado a utilidad}
+\end{figure}
+
+\subsubsection*{Agentes que aprenden}
+La idea es que las percepciones no se usen solo para actuar, sino también para mejorar su desempeño en el futuro (osea es critico consigo mismo, evalúa constantemente sus acciones y como afectaron al entorno buscando evolucionar y mejorar)
+
+\begin{figure}
+  \centering
+  \includegraphics[width=16cm, scale=1]{Images/Imagenes/AgenteQueAprende.png}
+  \caption{Agente que aprende}
+\end{figure}
+
+\subsubsection*{Inteligencia artificial distribuida-DAI}
+\todo[inline]{esto da la sensacion de que no lo preguntan o que ni importa, pero si, con entender que es un sist. multiagente y como interactuan entre si alcanza}
+Es el estudio, construcción y aplicación de sistemas multiagente, esto es, sistemas en los cuales varios agentes inteligentes interactúan persiguiendo algún conjunto de objetivos o ejecutando algún conjunto de tareas. Un sistema multiagente es uno que consiste de un numero de agentes, que interactúan entre ellos. En el caso mas general los agentes actúan en favor de sus usuarios con diferentes metas y motivaciones
+
+\textbf{Como interactuan los agentes multiagente}
+\begin{itemize}
+  \item Coordinación: orientada a la meta o la tarea a realizar ej. cuando dos agentes requieren de un recurso.
+  \item Cooperación: varios agentes tratan de combinar sus esfuerzos para lograr un objetivo en grupo. Ningún agente puede en forma solitaria lograr el objetivo, o bien, la cooperación hace obtener mejores resultados ej. obtener resultados en forma mas rápida
+  \item Competición: varios agentes tratan de obtener lo que solo algunos de ellos pueden tener
+  \item Negociación: varios agentes tratan de obtener su mayor beneficio logrando un acuerdo. Típicamente involucra una oferta contraoferta, con compromisos hechos por los participantes 
+\end{itemize}
+
+\subsubsection*{Resumen de que es un agente inteligente}
+Son entidades que:
+\begin{itemize}
+  \item perciben el ambiente
+  \item actúan en el
+  \item razonan
+  \item se comunican con otros agentes
+\end{itemize}
+Es capaz de acciones autónomas flexibles, es decir:
+\begin{itemize}
+  \item \textbf{Reactividad: }son capaces de percibir su ambiente y responde a cambios que ocurren
+  \item \textbf{Pro-actividad: }son capaces de exhibir funcionamiento orientado a un objetivo, tomando la iniciativa
+  \item \textbf{Habilidad social: }son capaces de interactuar con otros agentes (o humanos)
+\end{itemize}
+
+\subsection*{Ambientes}
+\subsubsection*{Completamente observable vs Parcialmente observable}
+
+Un ambiente es completamente observable si los sensores del agente detectan todos los aspectos relevantes para decidir que acción debe llevarse a cabo. ej Poker seria parcialmente observable y Ajedrez completamente observable
+
+\subsubsection*{Deterministico vs Estocastico}
+
+Si el siguiente estado del ambiente esta completamente determinado por el estado actual y la acción ejecutada por el agente, el ambiente es deterministico. Si otros factores influyen en el proximo estado del ambiente, este es estocástico. ej. jugando al ajedrez el proximo estado del ambiente va a estar determinado por el estado actual y la pieza que se elija mover. Jugando a los dados no esta determinado el proximo estado del ambiente por la acción que realice el agente u el estado actual del ambiente (hay un factor aleatorio que afecta) por lo tanto es estocástico.
+
+\subsubsection*{Agente único vs multiagente}
+
+Un ambiente multiagente es un contexto en el cual multiples agentes interaccionan entre si con su entorno. En un agente único hay un solo agente que toma decisiones y realiza acciones sobre el entorno 
+
+Los ambientes multiagente pueden ser los nombrados mas arriba
+
+\subsubsection*{Episodico vs Secuencial}
+En un ambiente episódico, la experiencia del agente esta dividida en episodios atómicos. En cada episodio, el agente percibe y ejecuta una acción simple y el siguiente episodio no depende de las acciones tomadas en episodios anteriores. Ej. Girar una ruleta seria episodico ya que el ambiente no se va a ver afectado por las tiradas anteriores, solo por la accion. Mover una pieza en ajedrez seria secuencial, ya que el nuevo estado depende de las acciones realizadas previamente
+
+\subsubsection*{Discreto vs Continuo}
+Esta distinción se aplica al estado del ambiente, al modo en que se maneja el tiempo y a las percepciones y acciones del agente. ej. el tablero de ajedrez es un ambiente discreto. Cada casilla del tablero representa una posición única, y hay un numero finito y discreto de piezas en juego. Cada movimiento del juego es una acción discreta, ya que el agente selecciona una casilla especifica para mover una pieza. Un robot manipulador industrial trabaja en un ambiente continuo, ya que puede mover su brazo y herramienta en una gama infinita de posiciones y orientaciones en el espacio tridimensional. Las acciones para controlar el robot se realizan de manera continua
+
+\subsubsection*{Conocido vs No conocido}
+Se refiere mas al estado de conocimiento del agente sobre las leyes o reglas del ambiente. Diferente de parcial-completamente observable. Ej. el solitario es parcialmente observable pero conozco las reglas, por lo tanto es conocido
+

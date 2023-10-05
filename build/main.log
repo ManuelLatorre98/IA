@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  2 OCT 2023 19:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  4 OCT 2023 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1054,12 +1054,12 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 13.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<Images/Unco/faiLogo.png, id=10, 752.8125pt x 451.6875pt>
+<Images/Unco/faiLogo.png, id=14, 752.8125pt x 451.6875pt>
 File: Images/Unco/faiLogo.png Graphic file (type png)
 <use Images/Unco/faiLogo.png>
 Package pdftex.def Info: Images/Unco/faiLogo.png  used on input line 16.
 (pdftex.def)             Requested size: 376.40532pt x 225.84319pt.
-<Images/Unco/Unco logo.png, id=12, 225.84375pt x 229.60782pt>
+<Images/Unco/Unco logo.png, id=16, 225.84375pt x 229.60782pt>
 File: Images/Unco/Unco logo.png Graphic file (type png)
 <use Images/Unco/Unco logo.png>
 Package pdftex.def Info: Images/Unco/Unco logo.png  used on input line 18.
@@ -1088,7 +1088,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
                    \relax 
 l.159 \clearpage
                 \pagenumbering{arabic} [1] (resumen.tex
-<Images/Imagenes/cuadro1.png, id=30, 881.54344pt x 564.60938pt>
+<Images/Imagenes/cuadro1.png, id=45, 881.54344pt x 564.60938pt>
 File: Images/Imagenes/cuadro1.png Graphic file (type png)
 <use Images/Imagenes/cuadro1.png>
 Package pdftex.def Info: Images/Imagenes/cuadro1.png  used on input line 5.
@@ -1103,7 +1103,92 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
- <./Images/Imagenes/cuadro1.png>])
+ <./Images/Imagenes/cuadro1.png>]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 47.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}]
+<Images/Imagenes/AgenteReflexoSimple.png, id=70, 828.84656pt x 531.48563pt>
+File: Images/Imagenes/AgenteReflexoSimple.png Graphic file (type png)
+<use Images/Imagenes/AgenteReflexoSimple.png>
+Package pdftex.def Info: Images/Imagenes/AgenteReflexoSimple.png  used on input line 100.
+(pdftex.def)             Requested size: 828.84453pt x 531.48433pt.
+<Images/Imagenes/AgenteReflexoEst.png, id=71, 824.32968pt x 521.69907pt>
+File: Images/Imagenes/AgenteReflexoEst.png Graphic file (type png)
+<use Images/Imagenes/AgenteReflexoEst.png>
+Package pdftex.def Info: Images/Imagenes/AgenteReflexoEst.png  used on input line 113.
+(pdftex.def)             Requested size: 824.32767pt x 521.69778pt.
+<Images/Imagenes/AgenteOrientadoAMetas.png, id=72, 824.32968pt x 525.46312pt>
+File: Images/Imagenes/AgenteOrientadoAMetas.png Graphic file (type png)
+<use Images/Imagenes/AgenteOrientadoAMetas.png>
+Package pdftex.def Info: Images/Imagenes/AgenteOrientadoAMetas.png  used on input line 126.
+(pdftex.def)             Requested size: 824.32767pt x 525.46184pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4 <./Images/Imagenes/AgenteReflexoSimple.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./Images/Imagenes/AgenteReflexoEst.png> <./Images/Imagenes/AgenteOrientadoAMetas.png>]
+<Images/Imagenes/AgenteOrientadoAutilidad.png, id=87, 820.56563pt x 518.6878pt>
+File: Images/Imagenes/AgenteOrientadoAutilidad.png Graphic file (type png)
+<use Images/Imagenes/AgenteOrientadoAutilidad.png>
+Package pdftex.def Info: Images/Imagenes/AgenteOrientadoAutilidad.png  used on input line 138.
+(pdftex.def)             Requested size: 820.56363pt x 518.68654pt.
+<Images/Imagenes/AgenteQueAprende.png, id=88, 825.0825pt x 546.54187pt>
+File: Images/Imagenes/AgenteQueAprende.png Graphic file (type png)
+<use Images/Imagenes/AgenteQueAprende.png>
+Package pdftex.def Info: Images/Imagenes/AgenteQueAprende.png  used on input line 147.
+(pdftex.def)             Requested size: 825.08049pt x 546.54053pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./Images/Imagenes/AgenteOrientadoAutilidad.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7 <./Images/Imagenes/AgenteQueAprende.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8])
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 132.
 See the caption package documentation for explanation.
@@ -1115,29 +1200,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}] (c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.aux
+[9] (c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ECAD718EEFD2CA21A73BC3D7099D4BB8;129.
+(rerunfilecheck)             Checksum: 514F56824FEFBA1489E965D1CCD2A4C8;221.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38992 strings out of 476410
- 737638 string characters out of 5789114
- 1858845 words of memory out of 5000000
- 58769 multiletter control sequences out of 15000+600000
+ 39135 strings out of 476410
+ 741476 string characters out of 5789114
+ 1863845 words of memory out of 5000000
+ 58876 multiletter control sequences out of 15000+600000
  532327 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,117p,731b,1875s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,117p,776b,1881s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\manul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.pdf" (4 pages, 280881 bytes).
+Output written on "c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.pdf" (11 pages, 1144517 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
