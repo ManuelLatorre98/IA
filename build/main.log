@@ -1,15 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.1)  4 OCT 2023 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.8)  15 OCT 2023 19:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **"c:/Users/manul/OneDrive/Escritorio/Final IA/Resumen/main.tex"
 (c:/Users/manul/OneDrive/Escritorio/Final IA/Resumen/main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-15> (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -26,7 +27,7 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
@@ -43,16 +44,16 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks18
-\inpenc@posthook=\toks19
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -76,7 +77,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
@@ -93,7 +94,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@linkcounter=\count198
 \Hy@pagecounter=\count199
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -101,19 +102,19 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count266
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4449.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count267
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen150
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -123,13 +124,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count268
 \Field@Width=\dimen151
 \Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -140,7 +141,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -386,24 +387,24 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-05-15 L3 programming layer (loader) 
+Package: expl3 2023-08-29 L3 programming layer (loader) 
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count400
 \l__pdf_internal_box=\box51
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-05-15 L3 programming layer (loader) 
+(biblatex)             2023-08-29 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-08-29 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
-Package: tcolorbox 2023/03/17 version 6.0.3 text color boxes
+Package: tcolorbox 2023/09/26 version 6.1.0 text color boxes
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks20
+\pgfutil@everybye=\toks21
 \pgfutil@tempdima=\dimen155
 \pgfutil@tempdimb=\dimen156
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
@@ -415,10 +416,10 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks21
-\pgfkeys@temptoks=\toks22
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks23
+\pgfkeys@tmptoks=\toks24
 ))
 \pgf@x=\dimen157
 \pgf@y=\dimen158
@@ -436,9 +437,9 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countb=\count402
 \c@pgf@countc=\count403
 \c@pgf@countd=\count404
-\t@pgf@toka=\toks24
-\t@pgf@tokb=\toks25
-\t@pgf@tokc=\toks26
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
 \pgf@sys@id@count=\count405
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -476,9 +477,9 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 \pgfmath@dimen=\dimen167
 \pgfmath@count=\count408
 \pgfmath@box=\box53
-\pgfmath@toks=\toks27
-\pgfmath@stack@operand=\toks28
-\pgfmath@stack@operation=\toks29
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count409
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -559,15 +560,15 @@ Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks30
-\verbatim@line=\toks31
+\every@verbatim=\toks31
+\verbatim@line=\toks32
 \verbatim@in@stream=\read4
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks32
+\@envbody=\toks33
 )
 \tcb@titlebox=\box59
 \tcb@upperbox=\box60
@@ -581,7 +582,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box65
 \tcb@temp=\box66
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.3'
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.1.0'
 (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
 )
@@ -591,9 +592,9 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totallowerbox=\box69
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
+\@enLab=\toks34
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/05/11 v3.89 The Babel package
+Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count416
 \U@D=\dimen194
 \l@unhyphenated=\language80
@@ -608,7 +609,7 @@ Package: babel 2023/05/11 v3.89 The Babel package
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks34
+\es@quottoks=\toks35
 \es@quotdepth=\count418
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
@@ -625,7 +626,7 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@qlevel=\count422
 \csq@maxlvl=\count423
 \csq@tshold=\count424
-\csq@ltx@everypar=\toks35
+\csq@ltx@everypar=\toks36
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
@@ -639,8 +640,8 @@ Package: todonotes 2023/01/31
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks36
-\XKV@tempa@toks=\toks37
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
 )
 \XKV@depth=\count425
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -648,8 +649,8 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen195
 \pgffor@skip=\dimen196
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
@@ -700,14 +701,14 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \c@@todonotes@numberoftodonotes=\count438
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks40
+\@emptytoks=\toks41
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip76
 
 For additional information on amsmath, use the `?' option.
@@ -715,7 +716,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks41
+\@emptytoks=\toks42
 \ex@=\dimen264
 )) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -753,21 +754,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip21
 \c@parentequation=\count446
 \dspbrk@lvl=\count447
-\tag@help=\toks42
+\tag@help=\toks43
 \row@=\count448
 \column@=\count449
 \maxfields@=\count450
-\andhelp@=\toks43
+\andhelp@=\toks44
 \eqnshift@=\dimen267
 \alignsep@=\dimen268
 \tagshift@=\dimen269
 \tagwidth@=\dimen270
 \totwidth@=\dimen271
 \lineht@=\dimen272
-\@envbody=\toks44
+\@envbody=\toks45
 \multlinegap=\skip77
 \multlinetaggap=\skip78
-\mathdisplay@stack=\toks45
+\mathdisplay@stack=\toks46
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/mnsymbol\MnSymbol.sty
@@ -848,15 +849,15 @@ LaTeX Font Info:    Redeclaring math symbol \invneg on input line 242.
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks46
-\thm@bodyfont=\toks47
-\thm@headfont=\toks48
-\thm@notefont=\toks49
-\thm@headpunct=\toks50
+\thm@style=\toks47
+\thm@bodyfont=\toks48
+\thm@headfont=\toks49
+\thm@notefont=\toks50
+\thm@headpunct=\toks51
 \thm@preskip=\skip79
 \thm@postskip=\skip80
 \thm@headsep=\skip81
-\dth@everypar=\toks51
+\dth@everypar=\toks52
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip82
@@ -866,7 +867,7 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count452
 \lst@gtempboxa=\box76
-\lst@token=\toks52
+\lst@token=\toks53
 \lst@length=\count453
 \lst@currlwidth=\dimen274
 \lst@column=\count454
@@ -894,9 +895,9 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
  Excluding comment 'comment') (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen278
 \captionmargin=\dimen279
 \caption@leftmargin=\dimen280
@@ -1008,12 +1009,12 @@ Package hyperref Info: Link coloring ON on input line 152.
 \scratchbox=\box78
 \nofMPsegments=\count464
 \nofMParguments=\count465
-\everyMPshowfont=\toks53
+\everyMPshowfont=\toks54
 \MPscratchCnt=\count466
 \MPscratchDim=\dimen287
 \MPnumerator=\count467
 \makeMPintoPDFobject=\count468
-\everyMPtoPDFconversion=\toks54
+\everyMPtoPDFconversion=\toks55
 ) (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1054,12 +1055,12 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 13.
  (C:\Users\manul\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<Images/Unco/faiLogo.png, id=14, 752.8125pt x 451.6875pt>
+<Images/Unco/faiLogo.png, id=54, 752.8125pt x 451.6875pt>
 File: Images/Unco/faiLogo.png Graphic file (type png)
 <use Images/Unco/faiLogo.png>
 Package pdftex.def Info: Images/Unco/faiLogo.png  used on input line 16.
 (pdftex.def)             Requested size: 376.40532pt x 225.84319pt.
-<Images/Unco/Unco logo.png, id=16, 225.84375pt x 229.60782pt>
+<Images/Unco/Unco logo.png, id=56, 225.84375pt x 229.60782pt>
 File: Images/Unco/Unco logo.png Graphic file (type png)
 <use Images/Unco/Unco logo.png>
 Package pdftex.def Info: Images/Unco/Unco logo.png  used on input line 18.
@@ -1088,7 +1089,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
                    \relax 
 l.159 \clearpage
                 \pagenumbering{arabic} [1] (resumen.tex
-<Images/Imagenes/cuadro1.png, id=45, 881.54344pt x 564.60938pt>
+<Images/Imagenes/cuadro1.png, id=95, 881.54344pt x 564.60938pt>
 File: Images/Imagenes/cuadro1.png Graphic file (type png)
 <use Images/Imagenes/cuadro1.png>
 Package pdftex.def Info: Images/Imagenes/cuadro1.png  used on input line 5.
@@ -1114,6 +1115,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
+<Images/Imagenes/AgenteReflexoSimple.png, id=113, 828.84656pt x 531.48563pt>
+File: Images/Imagenes/AgenteReflexoSimple.png Graphic file (type png)
+<use Images/Imagenes/AgenteReflexoSimple.png>
+Package pdftex.def Info: Images/Imagenes/AgenteReflexoSimple.png  used on input line 100.
+(pdftex.def)             Requested size: 828.84453pt x 531.48433pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1122,17 +1129,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3{C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}]
-<Images/Imagenes/AgenteReflexoSimple.png, id=70, 828.84656pt x 531.48563pt>
-File: Images/Imagenes/AgenteReflexoSimple.png Graphic file (type png)
-<use Images/Imagenes/AgenteReflexoSimple.png>
-Package pdftex.def Info: Images/Imagenes/AgenteReflexoSimple.png  used on input line 100.
-(pdftex.def)             Requested size: 828.84453pt x 531.48433pt.
-<Images/Imagenes/AgenteReflexoEst.png, id=71, 824.32968pt x 521.69907pt>
+<Images/Imagenes/AgenteReflexoEst.png, id=121, 824.32968pt x 521.69907pt>
 File: Images/Imagenes/AgenteReflexoEst.png Graphic file (type png)
 <use Images/Imagenes/AgenteReflexoEst.png>
 Package pdftex.def Info: Images/Imagenes/AgenteReflexoEst.png  used on input line 113.
 (pdftex.def)             Requested size: 824.32767pt x 521.69778pt.
-<Images/Imagenes/AgenteOrientadoAMetas.png, id=72, 824.32968pt x 525.46312pt>
+<Images/Imagenes/AgenteOrientadoAMetas.png, id=122, 824.32968pt x 525.46312pt>
 File: Images/Imagenes/AgenteOrientadoAMetas.png Graphic file (type png)
 <use Images/Imagenes/AgenteOrientadoAMetas.png>
 Package pdftex.def Info: Images/Imagenes/AgenteOrientadoAMetas.png  used on input line 126.
@@ -1154,12 +1156,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5 <./Images/Imagenes/AgenteReflexoEst.png> <./Images/Imagenes/AgenteOrientadoAMetas.png>]
-<Images/Imagenes/AgenteOrientadoAutilidad.png, id=87, 820.56563pt x 518.6878pt>
+<Images/Imagenes/AgenteOrientadoAutilidad.png, id=137, 820.56563pt x 518.6878pt>
 File: Images/Imagenes/AgenteOrientadoAutilidad.png Graphic file (type png)
 <use Images/Imagenes/AgenteOrientadoAutilidad.png>
 Package pdftex.def Info: Images/Imagenes/AgenteOrientadoAutilidad.png  used on input line 138.
 (pdftex.def)             Requested size: 820.56363pt x 518.68654pt.
-<Images/Imagenes/AgenteQueAprende.png, id=88, 825.0825pt x 546.54187pt>
+<Images/Imagenes/AgenteQueAprende.png, id=138, 825.0825pt x 546.54187pt>
 File: Images/Imagenes/AgenteQueAprende.png Graphic file (type png)
 <use Images/Imagenes/AgenteQueAprende.png>
 Package pdftex.def Info: Images/Imagenes/AgenteQueAprende.png  used on input line 147.
@@ -1188,7 +1190,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8])
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+Overfull \hbox (6.9376pt too wide) in paragraph at lines 313--314
+[]\OT1/cmr/bx/n/12 Operadores de Transici^^Son: \OT1/cmr/m/n/12 En el C^^Salcu-lo de Si-tua-cio-nes, se uti-li-zan ope-ra-do-res de transici^^Son
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14])
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 132.
 See the caption package documentation for explanation.
@@ -1200,29 +1254,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9] (c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.aux
+[15] (c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 514F56824FEFBA1489E965D1CCD2A4C8;221.
+(rerunfilecheck)             Checksum: 5089A0E3675105BC929D7CBBF0905C22;1612.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39135 strings out of 476410
- 741476 string characters out of 5789114
- 1863845 words of memory out of 5000000
- 58876 multiletter control sequences out of 15000+600000
- 532327 words of font info for 102 fonts, out of 8000000 for 9000
+ 38933 strings out of 475247
+ 731942 string characters out of 5757792
+ 1931785 words of memory out of 5000000
+ 59824 multiletter control sequences out of 15000+600000
+ 578109 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,12n,117p,776b,1881s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,12n,117p,822b,1883s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\manul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/manul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.pdf" (11 pages, 1144517 bytes).
+Output written on "c:\Users\manul\OneDrive\Escritorio\Final IA\Resumen\build\main.pdf" (17 pages, 1174966 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
 

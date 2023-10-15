@@ -1,3 +1,13 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Definicion de IA}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Agentes}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Representación del conocimiento}{9}{section.2}%
+\contentsline {section}{\numberline {3}Agentes lógicos/IA simbólica}{9}{section.3}%
+\contentsline {section}{\numberline {4}Búsqueda: }{10}{section.4}%
+\contentsline {section}{\numberline {5}Búsqueda heurística}{11}{section.5}%
+\contentsline {section}{\numberline {6}Lógica no monotonica}{11}{section.6}%
+\contentsline {section}{\numberline {7}Planning}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}STRIPS}{12}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Situation Calculus}{13}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Event Calculus}{13}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Ejemplos de uso}{14}{subsection.7.4}%
